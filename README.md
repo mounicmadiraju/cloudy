@@ -1,2 +1,2 @@
-# cloudy
-fancy PHP - cloudy uploads repo
+# Cloudinary_Sample
+A brief Tutorial on how to upload files to Cloudinary
